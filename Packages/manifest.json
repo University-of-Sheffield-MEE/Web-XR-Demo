@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.atteneder.gltfast": "file:../glTFast-main/glTFast-main",
     "com.de-panther.webxr": "0.15.0-preview",
     "com.de-panther.webxr-interactions": "0.15.0-preview",
     "com.unity.collab-proxy": "1.17.2",
